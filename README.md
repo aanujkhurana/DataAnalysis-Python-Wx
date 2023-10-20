@@ -8,7 +8,7 @@ The app is build uisng WxformBuilder and Python with AnaConda.
 
 ## Run;
 1. Download CSV file
-2. Set CSV File Location in SetCsvFile.py
+2. Set CSV File Location in App/csvFileLocation.py
 3. Run Main.py in App/
 
 
