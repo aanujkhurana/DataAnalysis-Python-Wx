@@ -1,22 +1,31 @@
-# Software Technology 7810ICT - Assignment (Python🐍)
-## Group 87
-### Anuj Khurana - s5281041
-### Puneet - s5296567 
-### Raghav Kohli - s5326153
+# Wx and Python 🐍
+The app is build uisng WxformBuilder and Python with AnaConda. 
 
-# **Project Name:** NSW Traffic Penalty Data Analysis and Visualization Tool👮🏻
+## Required Dependencies;
+1. Wx
+2. Pandas
+3. Matplot
 
+## Run;
+1. Download CSV file
+2. Set CSV File Location in SetCsvFile.py
+3. Run Main.py in App/
+
+
+
+
+
+# About
+## **Project:** NSW Traffic Penalty Data Analysis and Visualization Tool 👮🏻
 ## Dataset 
 ### NSW Traffic Penalty Data: 
 https://www.kaggle.com/llihan/australia-nsw-traffic-penalty-data-20112017
-**Required Features:**
+**Features:**
 - For a user-selected period, report the information of all penalty cases.
 - For a user-selected period, produce a chart to show the distribution of cases in each offense code
 - For a user-selected period, retrieve all cases captured by radar or camera based on offense description
 - Analysing the cases caused by mobile phone usage - ie: trend over time, offense code, and so on.
 - Generate Penalty Case Report,user will be able to see report for selected timeframe
-
-
 
 **Project Description:** 
 The NSW Traffic Penalty Data Analysis and Visualization Tool is intended to give users thorough understandings of New South Wales traffic penalty data. The dataset relating to different traffic offences can be analysed, visualised, and useful information can be obtained using this programme. It offers the following essential features and a user-friendly graphical interface:
@@ -50,13 +59,3 @@ The NSW Traffic Penalty Data Analysis and Visualization Tool is intended to give
 - Functions and modules for loading data, preprocessing, chart generation, filtering, and analysis.
 
 This project aims to provide a powerful yet user-friendly tool for analyzing and visualizing NSW Traffic Penalty Data, enabling users to make data-driven decisions and enhance road safety efforts, including the additional feature of reporting penalty cases.
-
-
-### Part A - Project Management
-Project Plan.docx - A project plan document
-Software Design Document.docx - A software design document
-Gantt chart.xlsx - A separate Gantt chart
-git_log.txt - A copy of the Git Log
-
-### Part B – Statistical Data Analysis and Presentation
-Not done yet
