@@ -53,10 +53,10 @@ This project aims to provide a powerful yet user-friendly tool for analyzing and
 
 # screenshots 
 <div align="left">
-    <img src="/screenshots/img2.png" width="400px"</img>
-    <img src="/screenshots/img3.png" width="400px"</img>
-    <img src="/screenshots/img4.png" width="300px"</img>
-    <img src="/screenshots/img5.png" width="300px"</img>
-    <img src="/screenshots/img6.png" width="200px"</img>
-    <img src="/screenshots/img7.png" width="200px"</img>
+    <img src="/screenshots/img2.png" width="350px"</img>
+    <img src="/screenshots/img3.png" width="350px"</img>
+    <img src="/screenshots/img4.png" width="350px"</img>
+    <img src="/screenshots/img5.png" width="350px"</img>
+    <img src="/screenshots/img6.png" width="350px"</img>
+    <img src="/screenshots/img7.png" width="350px"</img>
 </div>
