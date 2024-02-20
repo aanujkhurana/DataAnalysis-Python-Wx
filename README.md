@@ -12,20 +12,11 @@ The app is build uisng WxformBuilder and Python with AnaConda.
 3. Run Main.py in App/
 
 
-
-
-
 # About
 ## **Project:** NSW Traffic Penalty Data Analysis and Visualization Tool 👮🏻
 ## Dataset 
 ### NSW Traffic Penalty Data: 
 https://www.kaggle.com/llihan/australia-nsw-traffic-penalty-data-20112017
-**Features:**
-- For a user-selected period, report the information of all penalty cases.
-- For a user-selected period, produce a chart to show the distribution of cases in each offense code
-- For a user-selected period, retrieve all cases captured by radar or camera based on offense description
-- Analysing the cases caused by mobile phone usage - ie: trend over time, offense code, and so on.
-- Generate Penalty Case Report,user will be able to see report for selected timeframe
 
 **Project Description:** 
 The NSW Traffic Penalty Data Analysis and Visualization Tool is intended to give users thorough understandings of New South Wales traffic penalty data. The dataset relating to different traffic offences can be analysed, visualised, and useful information can be obtained using this programme. It offers the following essential features and a user-friendly graphical interface:
@@ -59,3 +50,13 @@ The NSW Traffic Penalty Data Analysis and Visualization Tool is intended to give
 - Functions and modules for loading data, preprocessing, chart generation, filtering, and analysis.
 
 This project aims to provide a powerful yet user-friendly tool for analyzing and visualizing NSW Traffic Penalty Data, enabling users to make data-driven decisions and enhance road safety efforts, including the additional feature of reporting penalty cases.
+
+# screenshots 
+<div align="left">
+    <img src="/screenshots/img2.png" width="400px"</img>
+    <img src="/screenshots/img3.png" width="400px"</img>
+    <img src="/screenshots/img4.png" width="300px"</img>
+    <img src="/screenshots/img5.png" width="300px"</img>
+    <img src="/screenshots/img6.png" width="200px"</img>
+    <img src="/screenshots/img7.png" width="200px"</img>
+</div>
