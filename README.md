@@ -1,4 +1,4 @@
-# Wx and Python 🐍
+# DATA ANALYSIS APP - Python 🐍
 The app is build uisng WxformBuilder and Python with AnaConda. 
 
 ## Required Dependencies;
@@ -12,10 +12,9 @@ The app is build uisng WxformBuilder and Python with AnaConda.
 3. Run Main.py in App/
 
 
-# About
-## **Project:** NSW Traffic Penalty Data Analysis and Visualization Tool 👮🏻
-## Dataset 
-### NSW Traffic Penalty Data: 
+## About
+### NSW Traffic Penalty Data Analysis and Visualization Tool 👮🏻
+### Dataset - NSW Traffic Penalty Data: 
 https://www.kaggle.com/llihan/australia-nsw-traffic-penalty-data-20112017
 
 **Project Description:** 
