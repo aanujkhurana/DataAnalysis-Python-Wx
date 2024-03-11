@@ -1,39 +1,40 @@
-# DATA ANALYSIS APP - Python 🐍
-The app is build uisng WxformBuilder and Python with AnaConda. 
+# 📊 Data Analysis App - Python 🐍
 
-## Required Dependencies;
-1. Wx
-2. Pandas
-3. Matplot
+Welcome to the Data Analysis App built using WxformBuilder and Python with Anaconda.
 
-## Run;
-1. Download CSV file
-2. Set CSV File Location in App/csvFileLocation.py
-3. Run Main.py in App/
+## Required Dependencies
+Make sure you have the following dependencies installed:
+- Wx
+- Pandas
+- Matplotlib
 
+## How to Run
+Follow these steps to run the app:
+1. Download the CSV file containing the data.
+2. Set the CSV file location in `App/csvFileLocation.py`.
+3. Run `Main.py` in the `App/` directory.
 
-## About
-### NSW Traffic Penalty Data Analysis and Visualization Tool 👮🏻
-### Dataset - NSW Traffic Penalty Data: 
-https://www.kaggle.com/llihan/australia-nsw-traffic-penalty-data-20112017
+#  NSW Traffic Penalty Data Analysis and Visualization Tool 👮🏻🚗📊🚦
+### Dataset - NSW Traffic Penalty Data
+You can find the dataset [here](https://www.kaggle.com/llihan/australia-nsw-traffic-penalty-data-20112017).
 
 **Project Description:** 
-The NSW Traffic Penalty Data Analysis and Visualization Tool is intended to give users thorough understandings of New South Wales traffic penalty data. The dataset relating to different traffic offences can be analysed, visualised, and useful information can be obtained using this programme. It offers the following essential features and a user-friendly graphical interface:
+The NSW Traffic Penalty Data Analysis and Visualization Tool provides users with in-depth insights into New South Wales traffic penalty data. This tool allows users to analyze, visualize, and obtain useful information from the dataset, offering the following features and a user-friendly graphical interface:
 
 **User Features:**
-1. **Select a Time Period:** Users can choose a specific time period to focus on penalty case information.
-2. **Generate Charts:** Users can generate charts to visualize the distribution of penalty cases by offense code.
-3. **Filter by Offense Description:** Users can filter and view cases captured by radar or camera based on offense descriptions.
-4. **Mobile Phone Usage Analysis:** Users can analyze cases related to mobile phone usage offenses, including trend analysis and offense code breakdown over time.
-5. **Report Penalty Cases:** Users can retrieve information on all penalty cases within a user-selected period.
+1. **Select a Time Period:** Choose a specific time period to focus on penalty case information.
+2. **Generate Charts:** Visualize the distribution of penalty cases by offense code.
+3. **Filter by Offense Description:** Filter and view cases captured by radar or camera based on offense descriptions.
+4. **Mobile Phone Usage Analysis:** Analyze cases related to mobile phone usage offenses, including trend analysis and offense code breakdown over time.
+5. **Report Penalty Cases:** Retrieve information on all penalty cases within a user-selected period.
 
 **Software Features:**
-1. **Data Loading and Preprocessing:** The software loads and preprocesses the NSW Traffic Penalty Data, ensuring data quality and usability.
-2. **Interactive GUI:** The tool offers an intuitive and user-friendly graphical user interface with components for user interactions.
-3. **Data Retrieval:** Users can retrieve penalty case information for user-selected time periods.
-4. **Chart Generation:** The software generates charts for visualizing the distribution of cases by offense code.
-5. **Filtering and Display:** Users can filter and display cases captured by radar or camera based on user-provided offense descriptions.
-6. **Mobile Phone Usage Analysis:** The software performs trend analysis and provides offense code breakdown for mobile phone usage offenses.
+1. **Data Loading and Preprocessing:** Load and preprocess the NSW Traffic Penalty Data to ensure data quality and usability.
+2. **Interactive GUI:** Offer an intuitive and user-friendly graphical user interface with components for user interactions.
+3. **Data Retrieval:** Retrieve penalty case information for user-selected time periods.
+4. **Chart Generation:** Generate charts to visualize the distribution of cases by offense code.
+5. **Filtering and Display:** Filter and display cases captured by radar or camera based on user-provided offense descriptions.
+6. **Mobile Phone Usage Analysis:** Perform trend analysis and provide offense code breakdown for mobile phone usage offenses.
 
 **Benefits:**
 - Improved understanding of traffic penalty data in NSW.
@@ -41,7 +42,8 @@ The NSW Traffic Penalty Data Analysis and Visualization Tool is intended to give
 - Efficient resource allocation for road safety initiatives.
 - Identification of trends and patterns in traffic offenses.
 
-**Project Plan:** The project plan includes project initiation, data collection and preparation, user interface design, analysis and visualization modules development, integration, documentation, deployment, and project closure.
+**Project Plan:**
+The project plan includes project initiation, data collection and preparation, user interface design, analysis and visualization modules development, integration, documentation, deployment, and project closure.
 
 **Software Design Document:**
 - Software design with components like data preprocessing, user interface, data retrieval, chart generation, filtering, and analysis.
@@ -50,7 +52,7 @@ The NSW Traffic Penalty Data Analysis and Visualization Tool is intended to give
 
 This project aims to provide a powerful yet user-friendly tool for analyzing and visualizing NSW Traffic Penalty Data, enabling users to make data-driven decisions and enhance road safety efforts, including the additional feature of reporting penalty cases.
 
-# screenshots 
+# 🖼️ Screenshots 
 <div align="left">
     <img src="/screenshots/img2.png" width="350px"</img>
     <img src="/screenshots/img3.png" width="350px"</img>
