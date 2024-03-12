@@ -1,11 +1,12 @@
-# 📊 Data Analysis App - Python 🐍
-
-Welcome to the Data Analysis App built using WxformBuilder and Python with Anaconda.
-
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-2021.11-green.svg)](https://www.anaconda.com/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3.3-yellow.svg)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-red.svg)](https://matplotlib.org/)
+
+# 📊 Data Analysis App - Python 🐍
+
+Welcome to the Data Analysis App built using WxformBuilder and Python with Anaconda.
+
 
 ## Required Dependencies
 Make sure you have the following dependencies installed:
